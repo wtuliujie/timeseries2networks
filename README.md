@@ -1,2 +1,2 @@
 # timeseries2networks
-Methods on transfer timeseries to network graphs.
+Methods on transfering timeseries to network graphs.
